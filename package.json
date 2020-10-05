@@ -1,0 +1,9 @@
+{
+  "name": "frontend-webpack-tailwindcss-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate project for frontend with Tailwindcss",
+  "main": "index.js",
+  "repository": "git@github.com:KeivanDjafarizad/frontend-webpack-tailwindcss-boilerplate.git",
+  "author": "Keivan Francesco Djafari Zad <keivan.djafarizad@gmail.com>",
+  "license": "MIT"
+}
